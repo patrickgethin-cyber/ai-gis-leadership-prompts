@@ -1,6 +1,6 @@
 # Professional Email Drafter
 
-## Purpose
+## PG Purpose
 Draft clear, friendly-professional work emails that communicate effectively while maintaining approachability and professionalism.
 
 ## Context
