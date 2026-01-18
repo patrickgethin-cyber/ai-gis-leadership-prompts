@@ -1,0 +1,1 @@
+# AI GIS Leadership Prompts
